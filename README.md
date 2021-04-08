@@ -2,7 +2,7 @@
 Data analysis of player data and pbp data from the NFL
 
 Links for helpful information on the nflfastR package:
-https://www.nflfastr.com/
+https://www.nflfastr.com/  
 https://www.nflfastr.com/articles/field_descriptions.html
 
 file descriptions:
